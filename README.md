@@ -12,7 +12,7 @@
 - **Anomaly Detection & Applied ML** — 문제에 맞는 모델링 접근과 평가 기준을 선택·검증합니다.
 - **ML Systems** — Data Pipeline과 Model Serving을 운영 가능한 구조로 연결합니다.
 
-### 대표 작업
+### Selected Work
 
 - **[Career Portfolio](https://so9093-k.github.io/career-wiki/)** — 의료·제조·보안 AI부터 ML/Data Pipeline, ML Systems까지 정리한 포트폴리오
 - **[On-Premise LLM Serving Platform](https://github.com/so9093-K/On-Premise-LLM-Serving-Platform)** — OpenAI-compatible Serving, 모델 Lifecycle, GPU Resource Control, Observability를 다루는 온프레미스 AI 모델 서빙 플랫폼
