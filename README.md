@@ -2,22 +2,22 @@
 
 **Applied ML Engineer · Time-Series / Anomaly Detection / ML Systems**
 
-I work from **problem framing and model validation** to **data pipelines and model serving**, with a research-minded approach to evidence, failure modes, and reproducibility.
+시계열·센서·행동 데이터의 특성을 이해해 **Feature를 설계하고, 문제에 적합한 AI/모델링 방식을 선택·검증하며, Data Pipeline과 Model Serving까지 연결**하는 일을 하고 있습니다.
 
-### From signals to systems
+### Signals to Systems
 
-**Biosignal & Time-Series Analysis** → **Anomaly Detection & Explainability** → **ML/Data Pipelines** → **Model Serving & Operations**
+**Biosignal & Time-Series Analysis** → **Anomaly Detection & Applied ML** → **ML/Data Pipelines** → **Model Serving & Operations**
 
-의료 생체신호, 제조 센서, 보안 행동 로그를 다뤄왔습니다. 모델 성능만 높이는 것보다 **왜 동작하는지, 어디서 실패하는지, 어떤 조건에서 재현되고 운영 가능한지**를 검증하며 문제 정의부터 시스템 운영까지 개발 범위를 확장해왔습니다.
+의료 생체신호, 제조 센서, 보안 행동 로그처럼 서로 다른 형태의 데이터를 다뤄왔습니다. 데이터와 도메인의 특성을 바탕으로 **어떤 Feature가 문제를 잘 표현하는지, 어떤 AI/모델링 방식이 적합한지 판단하고, 이를 실제 운영 구조까지 연결하는 과정**에 관심을 두고 있습니다.
 
-### What I work on
+### 주요 영역
 
-- **Time-Series & Anomaly Detection** — temporal feature design, unsupervised detection, risk-state modeling
-- **Validation & Explainability** — case-level evaluation, error analysis, SHAP, statistical interpretation
-- **ML Systems** — repeatable data pipelines, model serving, runtime lifecycle, resource control, observability
+- **Time-Series & Feature Engineering** — 시계열·센서 데이터의 구조와 변화 패턴을 분석하고, 문제를 잘 표현할 수 있는 Feature를 설계합니다.
+- **Anomaly Detection & Applied ML** — 문제 특성에 맞는 AI/모델링 접근과 평가 기준을 선택하고 실험·검증합니다.
+- **ML Systems** — Data Pipeline, Model Serving, Runtime Lifecycle, Resource Control, Observability까지 운영 구조로 연결합니다.
 
-### Selected Work
+### 대표 작업
 
-- **[Career Portfolio](https://so9093-k.github.io/career-wiki/)** — case studies across Medical AI, Industrial AI, Security AI, ML/Data Pipeline, and ML Systems
-- **[On-Premise LLM Serving Platform](https://github.com/so9093-K/On-Premise-LLM-Serving-Platform)** — OpenAI-compatible serving, model lifecycle, GPU resource control, and observability
-- **[Explainable Anomaly Analysis](https://github.com/so9093-K/explainable-anomaly-analysis)** — Isolation Forest + EVT(POT), threshold calibration, and interpretable anomaly review
+- **[Career Portfolio](https://so9093-k.github.io/career-wiki/)** — 의료·제조·보안 AI부터 ML/Data Pipeline, ML Systems까지의 프로젝트와 경력을 정리한 포트폴리오
+- **[On-Premise LLM Serving Platform](https://github.com/so9093-K/On-Premise-LLM-Serving-Platform)** — OpenAI-compatible Serving, 모델 Lifecycle, GPU Resource Control, Observability를 포함한 온프레미스 AI 모델 서빙 플랫폼
+- **[Explainable Anomaly Analysis](https://github.com/so9093-K/explainable-anomaly-analysis)** — Isolation Forest + EVT(POT)를 활용한 이상 후보 탐지, 임계값 설정, 설명 가능한 분석 프로젝트
