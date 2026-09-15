@@ -1,10 +1,10 @@
-다양한 도메인 데이터의 구조와 맥락을 이해해 문제를 잘 표현하는 Feature를 설계하고, 적합한 ML/AI 접근을 실험·검증해왔습니다. 최근에는 Data Pipeline과 Model Serving까지 개발 범위를 확장하며 분석에서 운영까지 연결하고 있습니다.
+다양한 도메인 데이터의 구조와 맥락을 이해해 문제를 잘 표현하는 Feature를 설계하고, 적합한 ML/AI 접근을 실험·검증해왔습니다. 최근에는 Data Pipeline과 Model Serving 영역으로 개발 범위를 넓혀가고 있습니다.
 
-### Signals to Systems
+### 커리어 방향
 
 **Biosignal & Time-Series Analysis** → **Anomaly Detection & Applied ML** → **ML/Data Pipelines** → **Model Serving & Operations**
 
-의료 생체신호, 제조 센서, 보안 행동 로그를 다뤄왔으며, 분석과 모델링에서 Data Pipeline과 Model Serving까지 개발 범위를 확장해왔습니다.
+의료 생체신호, 제조 센서, 보안 행동 로그를 다뤄오며 서로 다른 도메인의 시계열·행동 데이터를 분석하고 모델링해왔습니다.
 
 ### 주요 영역
 
