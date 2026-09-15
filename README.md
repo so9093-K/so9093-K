@@ -1,4 +1,4 @@
-시계열·센서·행동 데이터에서 문제를 잘 표현하는 Feature를 설계하고, 적합한 AI/모델링 방식을 선택해 Data Pipeline과 Model Serving까지 연결합니다.
+다양한 도메인 데이터의 구조와 맥락을 이해해 문제를 잘 표현하는 Feature를 설계하고, 적합한 ML/AI 접근을 실험·검증해왔습니다. 최근에는 Data Pipeline과 Model Serving까지 개발 범위를 확장하며 분석에서 운영까지 연결하고 있습니다.
 
 ### Signals to Systems
 
