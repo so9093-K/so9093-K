@@ -15,5 +15,5 @@
 ### Selected Work
 
 - **[Career Portfolio](https://so9093-k.github.io/career-wiki/)** — 의료·제조·보안 AI부터 ML/Data Pipeline, ML Systems까지 정리한 포트폴리오
-- **[On-Premise LLM Serving Platform](https://github.com/so9093-K/On-Premise-LLM-Serving-Platform)** — OpenAI-compatible Serving, 모델 Lifecycle, GPU Resource Control, Observability를 다루는 온프레미스 AI 모델 서빙 플랫폼
+- **[On-Premises LLM Serving Platform](https://github.com/so9093-K/On-Premises-LLM-Serving-Platform)** — OpenAI-compatible Serving, 모델 Lifecycle, GPU Resource Control, Observability를 다루는 온프레미스 AI 모델 서빙 플랫폼
 - **[Explainable Anomaly Analysis](https://github.com/so9093-K/explainable-anomaly-analysis)** — Isolation Forest + EVT(POT) 기반 이상 탐지, 임계값 설정, 해석 프로젝트
